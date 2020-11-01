@@ -1,15 +1,7 @@
-[![](https://raw.githubusercontent.com/tmdtky/tmdtky/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/tmdtky/tmdtky/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/tmdtky/tmdtky/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-![](https://komarev.com/ghpvc/?username=tmdtky&color=green)
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=tamada-takuya)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tamada-takuya)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tamada-takuya" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamada-takuya" />
 </a>
+![](https://komarev.com/ghpvc/?username=tmdtky&color=green)
