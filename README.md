@@ -1,18 +1,29 @@
-<p align="left"> 
-  <a href="https://github.com/tmdtky/tmdtky/">
-    <img src="https://komarev.com/ghpvc/?username=tmdtky" alt="tmdtky" />
+###👋 こんにちは！私は tmdtky です
+
+<p align = "left"> 
+  <a href="https://github.com/yutkat/tmdtky/">
+    <img src = "https://komarev.com/ghpvc/?username=tmdtky" alt = "tmdtky" />
   </a>
   <a href="http://twitter.com/laughingcode">
-    <img height="20" src="https://img.shields.io/twitter/follow/laughingcode?label=Twitter&logo=twitter&style=flat" />
+    <img height = "20" src = "https://img.shields.io/twitter/follow/laughingcode?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/tmdtky">
-    <img height="20" src="https://img.shields.io/github/followers/tmdtky?label=follow&logo=github&style=flat" />
+    <img height = "20" src = "https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://zenn.dev/laughingcode">
+    <img height = "20" src = "https://zenn-badge.ganariya.vercel.app/laughingcode/liked" />
+  </a>
+  <a href="https://zenn.dev/laughingcode">
+    <img height = "20" src = "https://zenn-badge.ganariya.vercel.app/laughingcode/followers" />
+  </a>
+  <a href="https://zenn.dev/laughingcode">
+    <img height = "20" src = "https://zenn-badge.ganariya.vercel.app/laughingcode/articles" />
   </a>
   <a href="http://qiita.com/laughingcode">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/laughingcode/posts.svg" />
+    <img height = "20" src = "https://qiita-badge.apiapi.app/s/laughingcode/posts.svg" />
   </a>
-  <//qiita.com/laughingcode">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/laughingcode/contributions.svg" />
+  <a href="http://qiita.com/laughingcode">
+    <img height = "20" src = "https://qiita-badge.apiapi.app/s/laughingcode/contributions.svg" />
   </a>
 </p>
 
