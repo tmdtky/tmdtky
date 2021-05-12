@@ -12,9 +12,6 @@
   </a>
   <a href="https://zenn.dev/laughingcode">
     <img height = "20" src = "https://zenn-badge.ganariya.vercel.app/laughingcode/liked" />
-
-　　　　　　　　　　[![your-text](https://zenn-badge.ganariya.vercel.app/{username}/liked)](https://zenn.dev/{username})
-
   </a>
   <a href="https://zenn.dev/laughingcode">
     <img height = "20" src = "https://zenn-badge.ganariya.vercel.app/laughingcode/followers" />
