@@ -1,4 +1,4 @@
-<h2>👋 Hi！ I'm tama!</h2>
+<h2>👋 Hi! I'm tama!</h2>
 
 <p align = "left"> 
   <a href="https://github.com/yutkat/tmdtky/">
